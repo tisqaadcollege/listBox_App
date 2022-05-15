@@ -1,0 +1,17 @@
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\bin\Debug\net6.0-windows\ListBox App.exe
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\bin\Debug\net6.0-windows\ListBox App.deps.json
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\bin\Debug\net6.0-windows\ListBox App.runtimeconfig.json
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\bin\Debug\net6.0-windows\ListBox App.dll
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\bin\Debug\net6.0-windows\ListBox App.pdb
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\obj\Debug\net6.0-windows\ListBox App.csproj.AssemblyReference.cache
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\obj\Debug\net6.0-windows\ListBox_App.Demo.resources
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\obj\Debug\net6.0-windows\ListBox App.csproj.GenerateResource.cache
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\obj\Debug\net6.0-windows\ListBox App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\obj\Debug\net6.0-windows\ListBox App.AssemblyInfoInputs.cache
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\obj\Debug\net6.0-windows\ListBox App.AssemblyInfo.cs
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\obj\Debug\net6.0-windows\ListBox App.csproj.CoreCompileInputs.cache
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\obj\Debug\net6.0-windows\ListBox App.dll
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\obj\Debug\net6.0-windows\refint\ListBox App.dll
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\obj\Debug\net6.0-windows\ListBox App.pdb
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\obj\Debug\net6.0-windows\ListBox App.genruntimeconfig.cache
+C:\Users\Abdirisak\source\repos\Class 630\ListBox App\ListBox App\obj\Debug\net6.0-windows\ref\ListBox App.dll
