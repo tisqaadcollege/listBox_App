@@ -7,24 +7,14 @@ namespace ListBox_App
             InitializeComponent();
         }
 
-        private void btnSelect_Click(object sender, EventArgs e)
+        private void btnAdd_Click(object sender, EventArgs e)
         {
-            /* Declare varaible hold city name 
-            string name; 
-
-            name = lstMyListBox.Items[lstMyListBox.SelectedIndex].ToString();
-
-            MessageBox.Show(name);
-
-         
-
-            lstMyListBox.Sorted = false;
-
-              */
-
             lstMyListBox.Items.Add(txtColor.Text);
+        }
 
-
+        private void btnInsert_Click(object sender, EventArgs e)
+        {
+            lstMyListBox.Items.Insert(2, txtColor.Text);
         }
     }
 }
